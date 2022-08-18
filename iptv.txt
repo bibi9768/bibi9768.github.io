@@ -6,10 +6,6 @@ udp://@225.1.1.149:30120
 
 #EXTINF:-1,HBO
 udp://@225.1.2.233:30120
-#EXTINF:-1,RED by HBO
-udp://@225.1.1.93:30120
-#EXTINF:-1,Fox Movies
-udp://@225.1.2.239:30120
 #EXTINF:-1,AXN
 udp://@225.1.2.225:30120
 
@@ -115,8 +111,6 @@ udp://@225.1.1.197:30120
 udp://@225.1.2.223:30120
 #EXTINF:-1,Discovery Channel
 udp://@225.1.1.238:30120
-#EXTINF:-1,Disney Channel
-udp://@225.1.2.158:30120
 #EXTINF:-1,Disney Junior
 udp://@225.1.1.233:30120
 #EXTINF:-1,Diva Universal
