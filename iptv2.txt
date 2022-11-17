@@ -1,0 +1,588 @@
+#EXTM3U epg: http://gg.gg/epgvn00 url-tvg="http://gg.gg/epgvn00"
+#EXTINF:-1,BTV1
+http://thiendt.duckdns.org:34040/udp/225.1.1.150:30120
+#EXTINF:-1,BTV2
+http://thiendt.duckdns.org:34040/udp/225.1.1.149:30120
+
+#EXTINF:-1,HBO
+http://thiendt.duckdns.org:34040/udp/225.1.2.233:30120
+#EXTINF:-1,RED by HBO
+http://thiendt.duckdns.org:34040/udp/225.1.1.93:30120
+#EXTINF:-1,Fox Movies
+http://thiendt.duckdns.org:34040/udp/225.1.2.239:30120
+#EXTINF:-1,AXN
+http://thiendt.duckdns.org:34040/udp/225.1.2.225:30120
+
+#EXTINF:-1,THVL1
+http://thiendt.duckdns.org:34040/udp/225.1.1.155:30120
+#EXTINF:-1,THVL2
+http://thiendt.duckdns.org:34040/udp/225.1.1.154:30120
+#EXTINF:-1,THVL3
+http://thiendt.duckdns.org:34040/udp/225.1.1.235:30120
+#EXTINF:-1,THVL4
+http://thiendt.duckdns.org:34040/udp/225.1.2.25:30120
+
+#EXTINF:-1,VTV1
+http://thiendt.duckdns.org:34040/udp/225.1.2.249:30120
+#EXTINF:-1,VTV2
+http://thiendt.duckdns.org:34040/udp/225.1.2.13:30120
+#EXTINF:-1,VTV3
+http://thiendt.duckdns.org:34040/udp/225.1.2.247:30120
+#EXTINF:-1,VTV4
+http://thiendt.duckdns.org:34040/udp/225.1.2.20:30120
+#EXTINF:-1,VTV5
+http://thiendt.duckdns.org:34040/udp/225.1.1.131:30120
+#EXTINF:-1,VTV6
+http://thiendt.duckdns.org:34040/udp/225.1.2.245:30120
+#EXTINF:-1,VTV7
+http://thiendt.duckdns.org:34040/udp/225.1.2.96:30120
+#EXTINF:-1,VTV8
+http://thiendt.duckdns.org:34040/udp/225.1.2.166:30120
+#EXTINF:-1,VTV9
+http://thiendt.duckdns.org:34040/udp/225.1.1.128:30120
+#EXTINF:-1,HTV1
+http://thiendt.duckdns.org:34040/udp/225.1.1.180:30120
+#EXTINF:-1,HTV2
+http://thiendt.duckdns.org:34040/udp/225.1.1.193:30120
+#EXTINF:-1,HTV3
+http://thiendt.duckdns.org:34040/udp/225.1.1.178:30120
+#EXTINF:-1,HTV4
+http://thiendt.duckdns.org:34040/udp/225.1.1.177:30120
+#EXTINF:-1,HTV7
+http://thiendt.duckdns.org:34040/udp/225.1.1.192:30120
+#EXTINF:-1,HTV9
+http://thiendt.duckdns.org:34040/udp/225.1.1.190:30120
+#EXTINF:-1,HTVC Phim
+http://thiendt.duckdns.org:34040/udp/225.1.1.184:30120
+#EXTINF:-1,HTVC Gia Đình
+http://thiendt.duckdns.org:34040/udp/225.1.1.170:30120
+#EXTINF:-1,HTVC Du Lịch
+http://thiendt.duckdns.org:34040/udp/225.1.1.166:30120
+#EXTINF:-1,HTVC Phụ Nữ
+http://thiendt.duckdns.org:34040/udp/225.1.1.171:30120
+#EXTINF:-1,HTVC Thuần Việt HD
+http://thiendt.duckdns.org:34040/udp/225.1.1.186:30120
+#EXTINF:-1,HTVC Thuần Việt
+http://thiendt.duckdns.org:34040/udp/225.1.1.174:30120
+#EXTINF:-1,ANTV
+http://thiendt.duckdns.org:34040/udp/225.1.2.169:30120
+
+#EXTINF:-1,MTV
+http://thiendt.duckdns.org:34040/udp/225.1.1.245:30120
+#EXTINF:-1,Animax
+http://thiendt.duckdns.org:34040/udp/225.1.1.135:30120
+#EXTINF:-1,Animal Planet
+http://thiendt.duckdns.org:34040/udp/225.1.1.231:30120
+#EXTINF:-1,Asian Food Channel
+http://thiendt.duckdns.org:34040/udp/225.1.1.198:30120
+#EXTINF:-1,ABC Australia
+http://thiendt.duckdns.org:34040/udp/225.1.2.21:30120
+#EXTINF:-1,AXN
+http://thiendt.duckdns.org:34040/udp/225.1.2.225:30120
+#EXTINF:-1,BBC Earth
+http://thiendt.duckdns.org:34040/udp/225.1.2.24:30120
+#EXTINF:-1,BBC Lifestyle
+http://thiendt.duckdns.org:34040/udp/225.1.2.52:30120
+#EXTINF:-1,BBC World News
+http://thiendt.duckdns.org:34040/udp/225.1.2.74:30120
+#EXTINF:-1,Baby TV
+http://thiendt.duckdns.org:34040/udp/225.1.2.146:30120
+#EXTINF:-1,Boomerang
+http://thiendt.duckdns.org:34040/udp/225.1.1.138:30120
+#EXTINF:-1,Blue Ant Entertainment
+http://thiendt.duckdns.org:34040/udp/225.1.1.203:30120
+#EXTINF:-1,Blue Ant Extreme
+http://thiendt.duckdns.org:34040/udp/225.1.1.204:30120
+#EXTINF:-1,Cartoon Network
+http://thiendt.duckdns.org:34040/udp/225.1.2.231:30120
+#EXTINF:-1,CBeebies
+http://thiendt.duckdns.org:34040/udp/225.1.1.134:30120
+#EXTINF:-1,Channel News Asia
+http://thiendt.duckdns.org:34040/udp/225.1.1.202:30120
+#EXTINF:-1,Channel [V]
+http://thiendt.duckdns.org:34040/udp/225.1.1.188:30120
+#EXTINF:-1,Cinemax
+http://thiendt.duckdns.org:34040/udp/225.1.2.86:30120
+#EXTINF:-1,Cinema World
+http://thiendt.duckdns.org:34040/udp/225.1.1.142:30120
+#EXTINF:-1,CNBC
+http://thiendt.duckdns.org:34040/udp/225.1.1.227:30120
+#EXTINF:-1,CNN
+http://thiendt.duckdns.org:34040/udp/225.1.1.242:30120
+#EXTINF:-1,Da Vinci Learning
+http://thiendt.duckdns.org:34040/udp/225.1.1.197:30120
+#EXTINF:-1,Discovery Asia
+http://thiendt.duckdns.org:34040/udp/225.1.2.223:30120
+#EXTINF:-1,Discovery Channel
+http://thiendt.duckdns.org:34040/udp/225.1.1.238:30120
+#EXTINF:-1,Disney Channel
+http://thiendt.duckdns.org:34040/udp/225.1.2.158:30120
+#EXTINF:-1,Disney Junior
+http://thiendt.duckdns.org:34040/udp/225.1.1.233:30120
+#EXTINF:-1,Diva Universal
+http://thiendt.duckdns.org:34040/udp/225.1.1.199:30120
+#EXTINF:-1,DreamWorks
+http://thiendt.duckdns.org:34040/udp/225.1.1.136:30120
+#EXTINF:-1,DW
+http://thiendt.duckdns.org:34040/udp/225.1.1.46:30120
+#EXTINF:-1,SCTV2-ACM
+http://thiendt.duckdns.org:34040/udp/225.1.1.234:30120
+#EXTINF:-1,FTV
+http://thiendt.duckdns.org:34040/udp/225.1.2.227:30120
+#EXTINF:-1,FTV UHD
+http://thiendt.duckdns.org:34040/udp/225.1.2.232:30120
+#EXTINF:-1,FOX
+http://thiendt.duckdns.org:34040/udp/225.1.1.51:30120
+#EXTINF:-1,Fox Sports
+http://thiendt.duckdns.org:34040/udp/225.1.2.229:30120
+#EXTINF:-1,Fox Sports 2
+http://thiendt.duckdns.org:34040/udp/225.1.1.141:30120
+#EXTINF:-1,Fox Sports 3
+http://thiendt.duckdns.org:34040/udp/225.1.2.242:30120
+#EXTINF:-1,Fox Family Movies
+http://thiendt.duckdns.org:34040/udp/225.1.1.140:30120
+#EXTINF:-1,Fox Movies
+http://thiendt.duckdns.org:34040/udp/225.1.2.239:30120
+#EXTINF:-1,Fox Life
+http://thiendt.duckdns.org:34040/udp/225.1.2.237:30120
+#EXTINF:-1,France 24
+http://thiendt.duckdns.org:34040/udp/225.1.2.211:30120
+#EXTINF:-1,Fx
+http://thiendt.duckdns.org:34040/udp/225.1.1.213:30120
+#EXTINF:-1,HBO
+http://thiendt.duckdns.org:34040/udp/225.1.2.233:30120
+#EXTINF:-1,KIX
+http://thiendt.duckdns.org:34040/udp/225.1.2.144:30120
+#EXTINF:-1,MAX by HBO
+http://thiendt.duckdns.org:34040/udp/225.1.2.86:30120
+#EXTINF:-1,National Geographic
+http://thiendt.duckdns.org:34040/udp/225.1.2.235:30120
+#EXTINF:-1,NHK World
+http://thiendt.duckdns.org:34040/udp/225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel
+http://thiendt.duckdns.org:34040/udp/225.1.2.215:30120
+#EXTINF:-1,RED by HBO
+http://thiendt.duckdns.org:34040/udp/225.1.1.93:30120
+#EXTINF:-1,TLC
+http://thiendt.duckdns.org:34040/udp/225.1.1.236:30120
+#EXTINF:-1,TV5Monde Asia
+http://thiendt.duckdns.org:34040/udp/225.1.1.200:30120
+#EXTINF:-1,Blue Ant Entertainment
+http://thiendt.duckdns.org:34040/udp/225.1.1.203:30120
+#EXTINF:-1,Blue Ant Extreme
+http://thiendt.duckdns.org:34040/udp/225.1.1.204:30120
+
+#EXTINF:-1,VTC1
+http://thiendt.duckdns.org:34040/udp/225.1.2.254:30120
+#EXTINF:-1,VTC2
+http://thiendt.duckdns.org:34040/udp/225.1.2.202:30120
+#EXTINF:-1,VTC3
+http://thiendt.duckdns.org:34040/udp/225.1.2.251:30120
+#EXTINF:-1,VTC4
+http://thiendt.duckdns.org:34040/udp/225.1.2.200:30120
+#EXTINF:-1,VTC5
+http://thiendt.duckdns.org:34040/udp/225.1.2.199:30120
+#EXTINF:-1,VTC6
+http://thiendt.duckdns.org:34040/udp/225.1.2.198:30120
+#EXTINF:-1,VTC7
+http://thiendt.duckdns.org:34040/udp/225.1.2.197:30120
+#EXTINF:-1,VTC8
+http://thiendt.duckdns.org:34040/udp/225.1.2.196:30120
+#EXTINF:-1,VTC9
+http://thiendt.duckdns.org:34040/udp/225.1.2.195:30120
+#EXTINF:-1, VTC10
+http://thiendt.duckdns.org:34040/udp/225.1.2.194:30120
+#EXTINF:-1,VTC11
+http://thiendt.duckdns.org:34040/udp/225.1.2.193:30120
+#EXTINF:-1,VTC13
+http://thiendt.duckdns.org:34040/udp/225.1.2.250:30120
+#EXTINF:-1,VTC14
+http://thiendt.duckdns.org:34040/udp/225.1.2.88:30120
+#EXTINF:-1,VTC16
+http://thiendt.duckdns.org:34040/udp/225.1.2.190:30120
+#EXTINF:-1,TN1 _ TH Thái Nguyên 
+http://thiendt.duckdns.org:34040/udp/225.1.2.179:30120
+#EXTINF:-1,PTV _ TH Phú Thọ 
+http://thiendt.duckdns.org:34040/udp/225.1.2.165:30120
+#EXTINF:-1,QTV1 _ TH Quảng Ninh 
+http://thiendt.duckdns.org:34040/udp/225.1.2.181:30120
+#EXTINF:-1,BTV _ TH Bắc Ninh 
+http://thiendt.duckdns.org:34040/udp/225.1.1.40:30120
+#EXTINF:-1,H1 _ TH Hà Nội 
+http://thiendt.duckdns.org:34040/udp/225.1.2.186:30120
+#EXTINF:-1,H2 _ TH Hà Nội 
+http://thiendt.duckdns.org:34040/udp/225.1.1.125:30120
+#EXTINF:-1,THP _ TH Thành phố Hải Phòng 
+http://thiendt.duckdns.org:34040/udp/225.1.1.44:30120
+#EXTINF:-1,NTV _ TH Ninh Bình 
+http://thiendt.duckdns.org:34040/udp/225.1.2.185:30120
+#EXTINF:-1,NTV _ TH Nghệ An 
+http://thiendt.duckdns.org:34040/udp/225.1.2.183:30120
+#EXTINF:-1,DaNangTV1 _ TH Thành phố Đà Nẵng 
+http://thiendt.duckdns.org:34040/udp/225.1.1.147:30120
+#EXTINF:-1,DaNangTV2 _ TH Thành phố Đà Nẵng 
+http://thiendt.duckdns.org:34040/udp/225.1.1.146:30120
+#EXTINF:-1,PTP _ TH Phú Yên 
+http://thiendt.duckdns.org:34040/udp/225.1.2.58:30120
+#EXTINF:-1,KTV _ TH Khánh Hòa 
+http://thiendt.duckdns.org:34040/udp/225.1.1.133:30120
+#EXTINF:-1,THGL _ TH Gia Lai 
+http://thiendt.duckdns.org:34040/udp/225.1.2.176:30120
+#EXTINF:-1,BTV1 _ TH Bình Dương 
+http://thiendt.duckdns.org:34040/udp/225.1.1.150:30120
+#EXTINF:-1,BTV2 _ TH Bình Dương 
+http://thiendt.duckdns.org:34040/udp/225.1.1.149:30120
+#EXTINF:-1,BTV3
+http://thiendt.duckdns.org:34040/udp/225.1.2.22:30120
+#EXTINF:-1,BTV4
+http://thiendt.duckdns.org:34040/udp/225.1.1.30:30120
+#EXTINF:-1,DaNang1 _ TH Đà Nẵng
+http://thiendt.duckdns.org:34040/udp/225.1.1.147:30120
+#EXTINF:-1,DaNang2 _ TH Đà Nẵng
+http://thiendt.duckdns.org:34040/udp/225.1.1.146:30120
+#EXTINF:-1,ĐNRTV1 _ TH Đồng Nai (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.1.152:30120
+#EXTINF:-1,ĐNRTV2 _ TH Đồng Nai (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.1.151:30120
+#EXTINF:-1,TTV11 _ TH Tây Ninh 
+http://thiendt.duckdns.org:34040/udp/225.1.1.130:30120
+#EXTINF:-1,BRT _ TH Bà Rịa Vũng Tàu 
+http://thiendt.duckdns.org:34040/udp/225.1.2.175:30120
+#EXTINF:-1,THTG _ TH Tiền Giang 
+http://thiendt.duckdns.org:34040/udp/225.1.2.170:30120
+#EXTINF:-1,THTV _ TH Trà Vinh 
+http://thiendt.duckdns.org:34040/udp/225.1.2.172:30120
+#EXTINF:-1,HGTV _ TH Hậu Giang 
+http://thiendt.duckdns.org:34040/udp/225.1.1.157:30120
+#EXTINF:-1,KG1 _ TH Kiên Giang 
+http://thiendt.duckdns.org:34040/udp/225.1.2.182:30120
+#EXTINF:-1,BLTV _ TH Bạc Liêu 
+http://thiendt.duckdns.org:34040/udp/225.1.1.61:30120
+#EXTINF:-1,CTV _ TH Cà Mau 
+http://thiendt.duckdns.org:34040/udp/225.1.1.104:30120
+#EXTINF:-1,THLC _ TH Lào Cai
+http://thiendt.duckdns.org:34040/udp/225.1.1.119:30120
+#EXTINF:-1,YTV _ TH Yên Bái
+http://thiendt.duckdns.org:34040/udp/225.1.1.39:30120
+#EXTINF:-1,ĐTV _ TH Điện Biên
+http://thiendt.duckdns.org:34040/udp/225.1.1.74:30120
+#EXTINF:-1,HBTV _ TH Hòa Bình
+http://thiendt.duckdns.org:34040/udp/225.1.2.168:30120
+#EXTINF:-1,STV _ TH Sơn La
+http://thiendt.duckdns.org:34040/udp/225.1.1.98:30120
+#EXTINF:-1,HGTV _ TH Hà Giang
+http://thiendt.duckdns.org:34040/udp/225.1.1.62:30120
+#EXTINF:-1,CRTV _ TH Cao Bằng
+http://thiendt.duckdns.org:34040/udp/225.1.1.102:30120
+#EXTINF:-1,LSTV _ TH Lạng Sơn
+http://thiendt.duckdns.org:34040/udp/225.1.1.160:30120
+#EXTINF:-1,TTV _ TH Tuyên Quang
+http://thiendt.duckdns.org:34040/udp/225.1.2.188:30120
+#EXTINF:-1,BGTV _ TH Bắc Giang
+http://thiendt.duckdns.org:34040/udp/225.1.1.164:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh
+http://thiendt.duckdns.org:34040/udp/225.1.2.180:30120
+#EXTINF:-1,THHN _ TH Hà Nam
+http://thiendt.duckdns.org:34040/udp/225.1.1.63:30120
+#EXTINF:-1,THD _ TH Hải Dương
+http://thiendt.duckdns.org:34040/udp/225.1.1.158:30120
+#EXTINF:-1,HY _ TH Hưng Yên
+http://thiendt.duckdns.org:34040/udp/225.1.1.118:30120
+#EXTINF:-1,NTV _ TH Nam Định
+http://thiendt.duckdns.org:34040/udp/225.1.1.120:30120
+#EXTINF:-1,TBTV _ TH Thái Bình
+http://thiendt.duckdns.org:34040/udp/225.1.1.99:30120
+#EXTINF:-1,VP _ TH Vĩnh Phúc
+http://thiendt.duckdns.org:34040/udp/225.1.2.99:30120
+#EXTINF:-1,TTV _ TH Thanh Hóa
+http://thiendt.duckdns.org:34040/udp/225.1.2.184:30120
+#EXTINF:-1,HTTV _ TH Hà Tĩnh
+http://thiendt.duckdns.org:34040/udp/225.1.1.75:30120
+#EXTINF:-1,QBTV _ TH Quảng Bình
+http://thiendt.duckdns.org:34040/udp/225.1.2.164:30120
+#EXTINF:-1,QRTV _ TH Quảng Trị
+http://thiendt.duckdns.org:34040/udp/225.1.1.117:30120
+#EXTINF:-1,TRT _ TH Thừa Thiên Huế
+http://thiendt.duckdns.org:34040/udp/225.1.1.161:30120
+#EXTINF:-1,QRT _ TH Quảng Nam
+http://thiendt.duckdns.org:34040/udp/225.1.2.50:30120
+#EXTINF:-1,PTQ _ TH Quảng Ngãi
+http://thiendt.duckdns.org:34040/udp/225.1.2.174:30120
+#EXTINF:-1,BTV _ TH Bình Định
+http://thiendt.duckdns.org:34040/udp/225.1.1.145:30120
+#EXTINF:-1,NTV _ TH Ninh Thuận
+http://thiendt.duckdns.org:34040/udp/225.1.2.178:30120
+#EXTINF:-1,BTV _ TH Bình Thuận
+http://thiendt.duckdns.org:34040/udp/225.1.1.124:30120
+#EXTINF:-1,KRT _ TH Kon Tum
+http://thiendt.duckdns.org:34040/udp/225.1.1.36:30120
+#EXTINF:-1,DRT _ TH Đắk Lắk
+http://thiendt.duckdns.org:34040/udp/225.1.1.64:30120
+#EXTINF:-1,LTV _ TH Lâm Đồng
+http://thiendt.duckdns.org:34040/udp/225.1.2.177:30120
+#EXTINF:-1,BPTV1 _ TH Bình Phước
+http://thiendt.duckdns.org:34040/udp/225.1.2.23:30120
+#EXTINF:-1,BPTV2 _ HOME tv
+http://thiendt.duckdns.org:34040/udp/225.1.2.38:30120
+#EXTINF:-1,BTV6 _ TH Bình Dương
+http://thiendt.duckdns.org:34040/udp/225.1.1.223:30120
+#EXTINF:-1,BTV11 _ TH Bình Dương
+http://thiendt.duckdns.org:34040/udp/225.1.1.224:30120
+#EXTINF:-1,LA34 _ TH Long An
+http://thiendt.duckdns.org:34040/udp/225.1.1.162:30120
+#EXTINF:-1,THĐT1 _ TH Đồng Tháp
+http://thiendt.duckdns.org:34040/udp/225.1.1.163:30120
+#EXTINF:-1,ATV _ TH An Giang
+http://thiendt.duckdns.org:34040/udp/225.1.2.173:30120
+#EXTINF:-1,THBT _ TH Bến Tre
+http://thiendt.duckdns.org:34040/udp/225.1.1.156:30120
+#EXTINF:-1,STV1 _ TH Sóc Trăng
+http://thiendt.duckdns.org:34040/udp/225.1.1.159:30120
+#EXTINF:-1,THTPCT _ TH Thành phố Cần Thơ
+http://thiendt.duckdns.org:34040/udp/225.1.1.132:30120
+#EXTINF:-1,VTV2 (HD 4.5Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.2:30120
+#EXTINF:-1,VTV3 (HD 4.5Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.3:30120
+#EXTINF:-1,VTV4 (HD 4.5Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.4:30120
+#EXTINF:-1,VTV6 (HD 4.5Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.6:30120
+#EXTINF:-1,VTC3 
+http://thiendt.duckdns.org:34040/udp/225.1.4.42:30120
+#EXTINF:-1,VTC13 
+http://thiendt.duckdns.org:34040/udp/225.1.4.52:30120
+#EXTINF:-1,VTC12
+http://thiendt.duckdns.org:34040/udp/225.1.2.51:30120
+#EXTINF:-1,VOV Vietnam Journey
+http://thiendt.duckdns.org:34040/udp/225.1.2.171:30120
+#EXTINF:-1,HTV7 
+http://thiendt.duckdns.org:34040/udp/225.1.4.59:30120
+#EXTINF:-1,ANTV 
+http://thiendt.duckdns.org:34040/udp/225.1.2.169:30120
+#EXTINF:-1,Nhân Dân TV 
+http://thiendt.duckdns.org:34040/udp/225.1.1.91:30120
+#EXTINF:-1,QUỐC HỘI (HD 6Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.2.148:30120
+#EXTINF:-1,QPVN (HD 6Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.2.217:30120
+#EXTINF:-1,VNEWS 
+http://thiendt.duckdns.org:34040/udp/225.1.1.43:30120
+#EXTINF:-1,An Viên _ BTV9 (HD 50p)
+http://thiendt.duckdns.org:34040/udp/225.1.2.189:30120
+#EXTINF:-1,AN NINH THẾ GIỚI
+http://thiendt.duckdns.org:34040/udp/225.1.1.208:30120
+#EXTINF:-1,THĐT2 _ Miền Tây
+http://thiendt.duckdns.org:34040/udp/225.1.1.221:30120
+#EXTINF:-1,NCM _ BTV10
+http://thiendt.duckdns.org:34040/udp/225.1.1.225:30120
+#EXTINF:-1,PHIM HAY
+http://thiendt.duckdns.org:34040/udp/225.1.1.222:30120
+#EXTINF:-1,youTV _ Hanoicab2
+http://thiendt.duckdns.org:34040/udp/225.1.1.207:30120
+#EXTINF:-1,MOV _ Hanoicab4
+http://thiendt.duckdns.org:34040/udp/225.1.1.206:30120
+#EXTINF:-1,Vietnamnet
+http://thiendt.duckdns.org:34040/udp/225.1.1.194:30120
+#EXTINF:-1,[V] (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.30:30120
+#EXTINF:-1,Da Vinci 
+http://thiendt.duckdns.org:34040/udp/225.1.4.38:30120
+#EXTINF:-1,FOX life (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.32:30120
+#EXTINF:-1,HBO (HD 11Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.2.102:30120
+#EXTINF:-1,NATIONAL GEOGRAPHIC (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.4.31:30120
+#EXTINF:-1,WBTV (HD 8Mbps)
+http://thiendt.duckdns.org:34040/udp/225.1.1.139:30120
+#EXTINF:-1,Arirang KOREA
+http://thiendt.duckdns.org:34040/udp/225.1.1.201:30120
+#EXTINF:-1,KBS WORLD
+http://thiendt.duckdns.org:34040/udp/225.1.1.196:30120
+#EXTINF:-1,VTV1 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.1:30120
+#EXTINF:-1,VTV5 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.5:30120
+#EXTINF:-1,VTV8 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.7:30120
+#EXTINF:-1,VTV9 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.8:30120
+#EXTINF:-1,VTC2 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.41:30120
+#EXTINF:-1,VTC4 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.43:30120
+#EXTINF:-1,VTC5 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.44:30120
+#EXTINF:-1,VTC6 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.45:30120
+#EXTINF:-1,VTC7 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.46:30120
+#EXTINF:-1,VTC8 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.47:30120
+#EXTINF:-1,VTC9 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.48:30120
+#EXTINF:-1,VTC10 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.49:30120
+#EXTINF:-1,VTC11 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.50:30120
+#EXTINF:-1,VTC14 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.53:30120
+#EXTINF:-1,VTC16 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.54:30120
+
+
+#EXTINF:-1,HTV1 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.55:30120
+#EXTINF:-1,HTV2 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.56:30120
+#EXTINF:-1,HTV3 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.57:30120
+#EXTINF:-1,HTV Keys (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.58:30120
+#EXTINF:-1,HTV THỂ THAO (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.60:30120
+#EXTINF:-1,HTV  (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.68:30120
+#EXTINF:-1,DU LỊCH VÀ CUỘC SỐNG (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.67:30120
+#EXTINF:-1,FBNC (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.70:30120
+#EXTINF:-1,GIA ĐÌNH (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.64:30120
+#EXTINF:-1,HTVC PHIM (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.63:30120
+#EXTINF:-1,PHỤ NỮ (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.66:30120
+#EXTINF:-1,Thuần Việt (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.61:30120
+#EXTINF:-1,Thuần Việt (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.62:30120
+#EXTINF:-1,PHIM HAY (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.77:30120
+#EXTINF:-1,BTV10 NCM (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.83:30120
+#EXTINF:-1,QTV3 _ TH Quảng Ninh (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.86:30120
+#EXTINF:-1,BPTV2 _ HOME tv (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.80:30120
+#EXTINF:-1,BTV2 _ TH Bình Dương (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.81:30120
+#EXTINF:-1,BTV6 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.78:30120
+#EXTINF:-1,BTV11 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.84:30120
+#EXTINF:-1,iMOVIE TV PHIM CHỌN LỌC _ BTV4 (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.82:30120
+#EXTINF:-1,ĐNRTV2 _ TH Đồng Nai (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.85:30120
+#EXTINF:-1,THVL2 _ TH Vĩnh Long (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.87:30120
+#EXTINF:-1,ABC AUSTRALIA (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.19:30120
+#EXTINF:-1,Asian Food Channel (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.36:30120
+#EXTINF:-1,Animal Planet (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.27:30120
+#EXTINF:-1,arirang KOREA (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.74:30120
+#EXTINF:-1,AXN (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.9:30120
+#EXTINF:-1,Baby First (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.28:30120
+#EXTINF:-1,BBC earth (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.21:30120
+#EXTINF:-1,BBC lifestyle (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.23:30120
+#EXTINF:-1,BBC WORLD NEWS (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.22:30120
+#EXTINF:-1,BLOOMBERG (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.18:30120
+#EXTINF:-1,BOOMERANG (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.16:30120
+#EXTINF:-1,CARTOON NETWORK (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.13:30120
+#EXTINF:-1,cna (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.76:30120
+#EXTINF:-1,Cinema World (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.15:30120
+#EXTINF:-1,CNN (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.17:30120
+#EXTINF:-1,Discovery Asia (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.25:30120
+#EXTINF:-1,Discovery Channel (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.24:30120
+#EXTINF:-1,DIVA (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.39:30120
+#EXTINF:-1,DW (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.75:30120
+#EXTINF:-1,FASHION TV (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.20:30120
+#EXTINF:-1,FOX (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.33:30120
+#EXTINF:-1,FOX MOVIES (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.34:30120
+#EXTINF:-1,FOX SPORTS (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.10:30120
+#EXTINF:-1,FOX SPORTS 2 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.11:30120
+#EXTINF:-1,FOX SPORTS 3 (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.12:30120
+#EXTINF:-1,FRANCE 24 (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.71:30120
+#EXTINF:-1,KBS WORLD (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.69:30120
+#EXTINF:-1,KIX (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.40:30120
+#EXTINF:-1,NHK WORLD JAPAN (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.73:30120
+#EXTINF:-1,Outdoor Channel (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.37:30120
+#EXTINF:-1,TLC (HD) (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.26:30120
+#EXTINF:-1,TV5 MONDE ASIE
+http://thiendt.duckdns.org:34040/udp/225.1.4.72:30120
+#EXTINF:-1,WBTV (FPT Play)
+http://thiendt.duckdns.org:34040/udp/225.1.4.14:30120
+#EXTINF:-1,Dolife Hospital
+http://thiendt.duckdns.org:34040/udp/225.1.1.127:30120
+#EXTINF:-1,The Mira Hotel
+http://thiendt.duckdns.org:34040/udp/225.1.1.123:30120
+#EXTINF:-1,The Ocean Resort
+http://thiendt.duckdns.org:34040/udp/225.1.1.121:30120
+#EXTINF:-1,FPT Giới Thiệu Chương Trình
+http://thiendt.duckdns.org:34040/udp/225.1.1.2:30120
+#EXTINF:-1,FPT Giới Thiệu Dịch Vụ
+http://thiendt.duckdns.org:34040/udp/225.1.1.137:30120
+#EXTINF:-1,FPT Mở Két
+http://thiendt.duckdns.org:34040/udp/225.1.1.26:30120
+#EXTINF:-1,FPT Mở Két
+http://thiendt.duckdns.org:34040/udp/225.1.1.97:30120
+#EXTINF:-1,FPT Thể Thao
+http://thiendt.duckdns.org:34040/udp/225.1.2.252:30120
+#EXTINF:-1,VTC14
+http://thiendt.duckdns.org:34040/udp/225.1.2.103:30120
+#EXTINF:-1,VTVCab11 _ VGS SHOP
+http://thiendt.duckdns.org:34040/udp/225.1.2.167:30120
+#EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
+http://thiendt.duckdns.org:34040/udp/225.1.1.122:30120
+#EXTINF:-1,VTVCab13 _ VTV Hyundai Homeshopping
+http://thiendt.duckdns.org:34040/udp/225.1.4.79:30120
+#EXTINF:-1,BTV6 _ Quê Hương Homeshopping
+http://thiendt.duckdns.org:34040/udp/225.1.1.90:30120
+#EXTINF:-1,QUỐC HỘI 
+http://thiendt.duckdns.org:34040/udp/225.1.4.148:30120
+#EXTINF:-1,QPVN 
+http://thiendt.duckdns.org:34040/udp/225.1.4.217:30120
+#EXTINF:-1,FPT Trực tiếp
+http://thiendt.duckdns.org:34040/udp/225.1.1.94:30120
+
+
+#EXTINF:-1,FBNC
+http://thiendt.duckdns.org:34040/udp/225.1.1.182:30120
+#EXTINF:-1,HTV Coop
+http://thiendt.duckdns.org:34040/udp/225.1.1.210:30120
+#EXTINF:-1,HTVC Thể Thao
+http://thiendt.duckdns.org:34040/udp/225.1.1.165:30120
+#EXTINF:-1,HTVC Shopping-VGS Shop
+http://thiendt.duckdns.org:34040/udp/225.1.1.172:30120
