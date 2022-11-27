@@ -1,16 +1,24 @@
 #EXTM3U epg: http://gg.gg/epgvn00 url-tvg="http://gg.gg/epgvn00"
 #EXTINF:-1,Cam01
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/101/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/101/
 #EXTINF:-1,Cam02
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/201/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/201/
 #EXTINF:-1,Cam03
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/301/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/301/
 #EXTINF:-1,Cam04
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/401/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/401/
 #EXTINF:-1,Cam05
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/501/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/501/
 #EXTINF:-1,Cam06
-rtsp://admin:Thien@123@192.168.0.217:554/Streaming/Channels/601/
+rtsp://admin:Thien@123@thiendt.duckdns.org:554/Streaming/Channels/601/
+
+#EXTINF:-1,K+ Sport 1 HD
+udp://@225.1.1.73:30120
+#EXTINF:-1,K+ Sport 2 HD
+udp://@225.1.1.77:30120
+#EXTINF:-1,K+ Kids HD
+udp://@225.1.1.76:30120
+
 
 #EXTINF:-1,BTV1
 udp://@225.1.1.150:30120
