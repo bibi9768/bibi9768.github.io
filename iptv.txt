@@ -1,13 +1,5 @@
 #EXTM3U epg: http://gg.gg/epgvn00 url-tvg="http://gg.gg/epgvn00"
 
-#EXTINF:-1,K+ Sport 1 HD
-udp://@225.1.1.73:30120
-#EXTINF:-1,K+ Sport 2 HD
-udp://@225.1.1.77:30120
-#EXTINF:-1,K+ Kids HD
-udp://@225.1.1.76:30120
-
-
 #EXTINF:-1,BTV1
 udp://@225.1.1.150:30120
 #EXTINF:-1,BTV2
